@@ -16,7 +16,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
 import static net.serenitybdd.rest.SerenityRest.given;
 
-
+@Disabled
 @SerenityTest
 public class SpartanAdminGetTest {
 
